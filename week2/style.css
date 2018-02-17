@@ -1,0 +1,26 @@
+
+#header{
+   border:1px solid rgb(112,14,14);
+   text-align: center
+}
+#container{
+  border:1px solid rgb(68, 173, 7);
+   text-align: center;
+   background:rgb(175, 153, 153);
+   float:left;
+   width: 47%;
+}
+
+img { width: 250px;
+height:250px;}
+
+a{display: block};
+
+
+#container1{
+  border:1px solid rgb(173, 115, 228);
+   text-align: center;
+   background:rgb(230, 235, 245);
+   float: right;
+   width: 47%;
+}
